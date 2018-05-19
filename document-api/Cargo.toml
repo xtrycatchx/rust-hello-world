@@ -1,0 +1,6 @@
+[package]
+name = "document-api"
+version = "0.1.0"
+authors = ["Paul Sydney <xtrycatchx@gmail.com>"]
+
+[dependencies]
