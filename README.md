@@ -14,3 +14,7 @@ rustup default nightly
 ```sh
 rustup update && cargo update
 ```
+
+```sh
+cargo run
+```
